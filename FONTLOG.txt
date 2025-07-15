@@ -1,0 +1,33 @@
+FONTLOG for the Spiral Notebook font 
+
+This file provides information on the Spiral Notebook Font Software.
+
+This information should be distributed along with the Spiral Notebook fonts
+and any derivative works. 
+
+Basic Font Information 
+
+Spiral Notebook presents a charmingly informal, handwritten aesthetic, characterized by its legible yet organic strokes that often connect, giving it a flowing and relaxed feel. Its slightly varied baselines and individual character shapes reinforce the authentic appearance of personal script.
+
+Spiral Notebook is a Unicode typeface that supports languages that
+use the Latin script and its variants, and could be 
+expanded to support other scripts. 
+
+This release supports the following Unicode ranges: 
+Latin-1.
+
+ChangeLog 
+
+15 July 2025 (J. Michael Kriz) Spiral Notebook v1.0
+- Initial release
+ 
+Acknowledgements 
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order. 
+
+N: J. Michael Kriz
+E: info@jmkriz.com
+W: http://www.jmkriz.com
+D: Original Designer
