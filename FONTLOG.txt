@@ -18,8 +18,12 @@ Latin-1.
 
 ChangeLog 
 
-15 July 2025 (J. Michael Kriz) Spiral Notebook v1.0
+15 July 2025
 - Initial release
+
+16 July 2025 
+– Added Bold 
+ 
  
 Acknowledgements 
 
