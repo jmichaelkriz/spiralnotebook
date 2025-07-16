@@ -7,7 +7,7 @@ and any derivative works.
 
 Basic Font Information 
 
-Spiral Notebook presents a charmingly informal, handwritten aesthetic, characterized by its legible yet organic strokes that often connect, giving it a flowing and relaxed feel. Its slightly varied baselines and individual character shapes reinforce the authentic appearance of personal script.
+Spiral Notebook presents a charmingly informal, handwritten aesthetic, characterized by its legible yet organic strokes that often connect, giving it a flowing and relaxed feel. Its slightly varied baselines and individual character shapes reinforce the authentic appearance of personal script. What's more, the font includes many ligatures, which enhance its natural flow and make it a great option for an all-caps handwriting look. However, a lowercase set is also available, offering even more versatility.
 
 Spiral Notebook is a Unicode typeface that supports languages that
 use the Latin script and its variants, and could be 
